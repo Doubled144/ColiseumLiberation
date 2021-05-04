@@ -3,7 +3,7 @@
 You have been kept in the musty dungeons for years for your "crimes". A new warden has come to power and offers his prisoners a chance to regain their freedom by becoming the ultimate gladiator.
 
 ## Get Playing!
- 1. Download the content for [Windows]() or [Mac]().
+ 1. Download the content for [Windows](https://drive.google.com/drive/folders/1qw306sQJ0BRFpPp4lWK4LtF2cpU0NNYm?usp=sharing) or [Mac](https://drive.google.com/drive/folders/1ADWWb56HjvBZBwNKHB37RNVbfXCmyHfl?usp=sharing).
  2. Extract the .zip folder
  3. Run the application "*Colosseum Liberation*"
 	 - *If you have security issues on Mac preform the following fix*
