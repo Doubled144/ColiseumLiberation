@@ -1,0 +1,23 @@
+{
+    "Archer AI": {
+        "checkpoints": [
+            {
+                "steps": 2048,
+                "file_path": "results\\Shooter5\\Archer AI\\Archer AI-2048.onnx",
+                "reward": null,
+                "creation_time": 1619382106.1612456
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2048,
+            "file_path": "results\\Shooter5\\Archer AI.onnx",
+            "reward": null,
+            "creation_time": 1619382106.1612456
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

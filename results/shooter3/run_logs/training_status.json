@@ -1,0 +1,23 @@
+{
+    "Archer AI": {
+        "checkpoints": [
+            {
+                "steps": 3015,
+                "file_path": "results\\shooter3\\Archer AI\\Archer AI-3015.onnx",
+                "reward": 6.75,
+                "creation_time": 1619312020.5521789
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3015,
+            "file_path": "results\\shooter3\\Archer AI.onnx",
+            "reward": 6.75,
+            "creation_time": 1619312020.5521789
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

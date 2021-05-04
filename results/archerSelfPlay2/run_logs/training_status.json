@@ -1,0 +1,24 @@
+{
+    "ArcherAI": {
+        "elo": -34.22496658313363,
+        "checkpoints": [
+            {
+                "steps": 201712,
+                "file_path": "results\\archerSelfPlay2\\ArcherAI\\ArcherAI-201712.onnx",
+                "reward": null,
+                "creation_time": 1619396573.5022023
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 201712,
+            "file_path": "results\\archerSelfPlay2\\ArcherAI.onnx",
+            "reward": null,
+            "creation_time": 1619396573.5022023
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "ArcherAI": {
+        "checkpoints": [
+            {
+                "steps": 499942,
+                "file_path": "results\\Shooter9\\ArcherAI\\ArcherAI-499942.onnx",
+                "reward": 1.9000000329244704,
+                "creation_time": 1619383616.9650767
+            },
+            {
+                "steps": 605928,
+                "file_path": "results\\Shooter9\\ArcherAI\\ArcherAI-605928.onnx",
+                "reward": 1.9000000331712805,
+                "creation_time": 1619383781.6440427
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 605928,
+            "file_path": "results\\Shooter9\\ArcherAI.onnx",
+            "reward": 1.9000000331712805,
+            "creation_time": 1619383781.6440427
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

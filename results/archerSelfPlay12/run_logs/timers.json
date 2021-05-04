@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1619477765",
+        "python_version": "3.8.9 (tags/v3.8.9:a743f81, Apr  2 2021, 11:10:41) [MSC v.1928 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\src\\Unity\\Coliseum Liberation\\venv\\Scripts\\mlagents-learn .\\archerConfig.yaml --run-id=archerSelfPlay12 --force",
+        "mlagents_version": "0.25.1",
+        "mlagents_envs_version": "0.25.1",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.2",
+        "end_time_seconds": "1619477826"
+    },
+    "total": 61.094777799999996,
+    "count": 1,
+    "self": 0.005469099999999116,
+    "children": {
+        "run_training.setup": {
+            "total": 0.19640560000000007,
+            "count": 1,
+            "self": 0.19640560000000007
+        },
+        "TrainerController.start_learning": {
+            "total": 60.8929031,
+            "count": 1,
+            "self": 8.960000000257651e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.892593,
+                    "count": 1,
+                    "self": 60.892593
+                },
+                "TrainerController._save_models": {
+                    "total": 0.00022049999999751435,
+                    "count": 1,
+                    "self": 0.00022049999999751435
+                }
+            }
+        }
+    }
+}

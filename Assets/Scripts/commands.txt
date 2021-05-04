@@ -1,0 +1,6 @@
+mlagents-learn <trainer-config-file> --env=<env_name> --run-id=<run-identifier>
+--resume
+--force
+
+// launches tensorboard NN training viewer to localhost
+tensorboard --logdir .\results\

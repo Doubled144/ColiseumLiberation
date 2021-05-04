@@ -1,0 +1,39 @@
+{
+    "Archer AI": {
+        "checkpoints": [
+            {
+                "steps": 191105,
+                "file_path": "results\\Shooter7\\Archer AI\\Archer AI-191105.onnx",
+                "reward": 0.09999997364847284,
+                "creation_time": 1619382678.2716963
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 191105,
+            "file_path": "results\\Shooter7\\Archer AI.onnx",
+            "reward": 0.09999997364847284,
+            "creation_time": 1619382678.2716963
+        }
+    },
+    "ArcherAI": {
+        "checkpoints": [
+            {
+                "steps": 12605,
+                "file_path": "results\\Shooter7\\ArcherAI\\ArcherAI-12605.onnx",
+                "reward": 0.09999997148642668,
+                "creation_time": 1619382678.4096947
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 12605,
+            "file_path": "results\\Shooter7\\ArcherAI.onnx",
+            "reward": 0.09999997148642668,
+            "creation_time": 1619382678.4096947
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

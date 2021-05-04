@@ -1,0 +1,39 @@
+{
+    "Archer AI": {
+        "checkpoints": [
+            {
+                "steps": 44510,
+                "file_path": "results\\Shooter6\\Archer AI\\Archer AI-44510.onnx",
+                "reward": null,
+                "creation_time": 1619382273.4143977
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44510,
+            "file_path": "results\\Shooter6\\Archer AI.onnx",
+            "reward": null,
+            "creation_time": 1619382273.4143977
+        }
+    },
+    "ArcherAI": {
+        "checkpoints": [
+            {
+                "steps": 2734,
+                "file_path": "results\\Shooter6\\ArcherAI\\ArcherAI-2734.onnx",
+                "reward": 0.09999999403953552,
+                "creation_time": 1619382273.753898
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2734,
+            "file_path": "results\\Shooter6\\ArcherAI.onnx",
+            "reward": 0.09999999403953552,
+            "creation_time": 1619382273.753898
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1619390849",
+        "python_version": "3.8.9 (tags/v3.8.9:a743f81, Apr  2 2021, 11:10:41) [MSC v.1928 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\src\\Unity\\Coliseum Liberation\\venv\\Scripts\\mlagents-learn .\\archerConfig.yaml --run-id=twoShooter --force",
+        "mlagents_version": "0.25.1",
+        "mlagents_envs_version": "0.25.1",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.2",
+        "end_time_seconds": "1619390857"
+    },
+    "total": 7.4831141,
+    "count": 1,
+    "self": 0.01051299999999955,
+    "children": {
+        "run_training.setup": {
+            "total": 0.17996830000000008,
+            "count": 1,
+            "self": 0.17996830000000008
+        },
+        "TrainerController.start_learning": {
+            "total": 7.2926328,
+            "count": 1,
+            "self": 6.6499999998193e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.494011800000001,
+                    "count": 1,
+                    "self": 6.494011800000001
+                },
+                "TrainerController._save_models": {
+                    "total": 0.7985545000000007,
+                    "count": 1,
+                    "self": 0.009259199999999801,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.7892953000000009,
+                            "count": 1,
+                            "self": 0.7892953000000009
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

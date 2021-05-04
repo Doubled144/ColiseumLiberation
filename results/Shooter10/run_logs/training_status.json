@@ -1,0 +1,23 @@
+{
+    "ArcherAI": {
+        "checkpoints": [
+            {
+                "steps": 71526,
+                "file_path": "results\\Shooter10\\ArcherAI\\ArcherAI-71526.onnx",
+                "reward": -3.7358976908219166,
+                "creation_time": 1619384025.0588367
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 71526,
+            "file_path": "results\\Shooter10\\ArcherAI.onnx",
+            "reward": -3.7358976908219166,
+            "creation_time": 1619384025.0588367
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

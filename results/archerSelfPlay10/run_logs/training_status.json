@@ -1,0 +1,42 @@
+{
+    "ArcherAI": {
+        "checkpoints": [
+            {
+                "steps": 499823,
+                "file_path": "results\\archerSelfPlay10\\ArcherAI\\ArcherAI-499823.onnx",
+                "reward": null,
+                "creation_time": 1619469091.2500603
+            },
+            {
+                "steps": 999774,
+                "file_path": "results\\archerSelfPlay10\\ArcherAI\\ArcherAI-999774.onnx",
+                "reward": null,
+                "creation_time": 1619471758.2835612
+            },
+            {
+                "steps": 1499736,
+                "file_path": "results\\archerSelfPlay10\\ArcherAI\\ArcherAI-1499736.onnx",
+                "reward": -2.4169998168945312,
+                "creation_time": 1619474462.1295612
+            },
+            {
+                "steps": 1534678,
+                "file_path": "results\\archerSelfPlay10\\ArcherAI\\ArcherAI-1534678.onnx",
+                "reward": 4.076000054677327,
+                "creation_time": 1619474663.2210608
+            }
+        ],
+        "elo": 1111.4585581130693,
+        "final_checkpoint": {
+            "steps": 1534678,
+            "file_path": "results\\archerSelfPlay10\\ArcherAI.onnx",
+            "reward": 4.076000054677327,
+            "creation_time": 1619474663.2210608
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
